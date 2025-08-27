@@ -4,12 +4,12 @@ let listaDeAmigos = []; //Crea una lista vacía
 
 //Al hacer click en añadir
 function agregarAmigo() {
-    let nuevoAmigo = document.getElementById('amigo').value;
+    let nuevoAmigo = document.getElementById('amigo').value; //Capturar el valor del campo de entrada
     if (nuevoAmigo == '') {
         alert('Inserte un nombre válido'); //Validar entrada
     } else {
         listaDeAmigos.push(nuevoAmigo); //Agregar nombre al array
-        limpiarCaja();
+        limpiarCaja();  //Limpiar el campo de entrada
         //document.querySelector('#listaAmigos').innerHTML = nuevoAmigo;
         listaVisible();
     }
