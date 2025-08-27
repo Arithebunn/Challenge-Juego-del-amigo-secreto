@@ -5,11 +5,15 @@ let listaDeAmigos = [];
 //Al hacer click en añadir
 function agregarAmigo() {
     let nuevoAmigo = document.getElementById('amigo').value;
-    listaDeAmigos.push(nuevoAmigo);
-    limpiarCaja();
-    
+    if (nuevoAmigo == '') {
+        alert('Inserte un nombre válido');
+    } else {
+        listaDeAmigos.push(nuevoAmigo);
+        limpiarCaja();
+    }
     return console.log(nuevoAmigo);
 }
+
 
 
 function limpiarCaja(){
