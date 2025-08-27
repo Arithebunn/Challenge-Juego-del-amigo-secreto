@@ -22,7 +22,7 @@ function listaVisible () {
     lista.innerHTML = '';
     for (let i = 0; i < listaDeAmigos.length; i++) {
         let li = document.createElement("li");
-        li.textContent = listaDeAmigos[i];
+        li.innerHTML = listaDeAmigos[i];
         lista.appendChild(li);
     }
     return;
