@@ -16,5 +16,5 @@ En este desafío de AluraLatam, desarrollé una aplicación que permite a los us
 6. Listo :white_check_mark: Ahora ya tienes un ***Amigo Secreto***. :love_letter:
 
 ## Autores
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Arithebunn</sub>](https://github.com/Arithebunn) | print |  hola |
-| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/189813009?v=4" width=115><br><sub>Arithebunn</sub>](https://github.com/Arithebunn) |
+| :---: | 
