@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
 
-En este desafío, desarrollaré una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
+En este desafío de AluraLatam, desarrollé una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
 **Instrucciones:**
 1. Da click en la caja donde dice "*Escribe un nombre*".
@@ -16,5 +16,5 @@ En este desafío, desarrollaré una aplicación que permita a los usuarios ingre
 6. Listo :white_check_mark: Ahora ya tienes un ***Amigo Secreto***. :love_letter:
 
 ## Autores
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) | print |  hola |
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Arithebunn</sub>](https://github.com/Arithebunn) | print |  hola |
 | :---: | :---: | :---: |
